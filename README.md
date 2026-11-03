@@ -9,6 +9,7 @@ C++/Qt, Python, STM32. 🌐 [electroman.by](https://electroman.by) · 💬 [t.me
 |---|---|
 | [**ModbusToolkit**](https://modbustoolkit.electroman.by/) | Бесплатный сниффер, сканер и эмулятор Modbus RTU/TCP для Windows и Linux: Master и Slave со сценариями ST, шлюз, диагностика линии, HMI-дизайнер, OPC UA |
 | [**modbustoolkit-sandbox**](https://github.com/StarLeG/modbustoolkit-sandbox) | Modbus-SendBox — публичный тестовый сервер Modbus TCP: 10 слейвов, генераторы значений, инъекции ошибок, веб-интерфейс и REST API |
+| [**OPC UA SendBox**](https://opcua-sendbox.electroman.by/) | Публичная песочница OPC UA серверов: общий демо-сервер, личные сессии с тегами и алармами A&C, история значений, веб-интерфейс и REST API |
 | [**PLC_RemoteBridge**](https://github.com/StarLeG/PLC_RemoteBridge) | Удалённое программирование ПЛК Delta DVP по Ethernet: мост COM-порт ↔ TCP |
 | [**wg-admin-bash**](https://github.com/StarLeG/wg-admin-bash) | Установка и администрирование WireGuard-сервера одним интерактивным скриптом |
 | [**tc-markdown-lister**](https://github.com/StarLeG/tc-markdown-lister) | Просмотр Markdown в Total Commander в стиле GitHub |
